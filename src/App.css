@@ -1,0 +1,25 @@
+.card{
+  width:250px;
+  margin:20px;
+  border-radius: 20px;
+box-shadow: 10px 4px 24px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 4px 24px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 4px 24px 0px rgba(0, 0, 0, 0.75);
+
+}
+.card img{
+  
+  width:250px;
+  height: 250px;
+}
+
+.box{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 50px;
+
+}
+
+.App{background-color: #3f3838;}
